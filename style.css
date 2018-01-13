@@ -1,0 +1,50 @@
+.brd1{
+	border: 10px solid #ff9999;
+	padding: 10px;
+}
+.vp{
+	font-size: 60px;
+	color: #00CC99;
+}
+.brd2{
+	border: 10px solid #ff9999;
+	padding: 10px;
+}
+.brd3{
+	border: 10px solid #ff9999;
+	padding: 15px 0;
+}
+.center{
+	 text-align: center;
+}
+.image-center {
+  display: block;
+  margin: auto;
+}
+.header{
+	border: 10px solid #ff9999;
+	padding: 40px;
+	background: #ff9999; 
+}
+.soc_buttons{
+	float: right;
+	font-size: 40px;
+}
+.blokbg1 {
+background-image: url('/images/.jpg');
+background-repeat: repeat;
+background-attachment: scroll;
+}
+#f{
+	background: #2d2d2d;
+	padding-top:30px;
+	padding-bottom: 20px;
+}
+#f i{
+	color:#bdbdbd;
+	font-size: 30px;
+	padding: 20px;
+}
+#f i:hover{
+	color:ff7878;
+}
